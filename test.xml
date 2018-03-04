@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<group>
+	<student firstname="aaa" lastname="aads" groupnumber="13">
+		<subject title="q1" mark="5"></subject>
+		<subject title="q2" mark="1"></subject>
+		<average>3</average>
+	</student>
+	<student firstname="bbb" lastname="aads" groupnumber="13">
+		<subject title="q1" mark="2"></subject>
+		<subject title="q2" mark="2"></subject>
+		<average>2</average>
+	</student>
+	<student firstname="aaa" lastname="aadas" groupnumber="13">
+		<subject title="q1" mark="5"></subject>
+		<subject title="q2" mark="5"></subject>
+		<average>5</average>
+	</student>
+	<student firstname="aaa" lastname="aadws" groupnumber="13">
+		<subject title="q1" mark="3"></subject>
+		<subject title="q2" mark="4"></subject>
+		<average>5</average>
+	</student>
+</group>
